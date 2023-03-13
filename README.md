@@ -21,4 +21,4 @@ I don't have any that I haven't removed yet, but it may be close ;)
 <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 
 
-https://img.shields.io/github/followers/Eymenemen?label=Follow_me&style=social
+![GitHub followers](https://img.shields.io/github/followers/Eymenemen?label=Follow_me&style=social)
