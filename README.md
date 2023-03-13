@@ -5,7 +5,7 @@ Henüz kendim çıkarttığım projelerim yok fakat yakında olabilir ;)
 
 ## Bilinen Diller:
 
-<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 
 
 ------------------------------------------------------------------------------------------------
@@ -18,6 +18,6 @@ I don't have any that I haven't removed yet, but it may be close ;)
 
 ## Known Languages:
 
-<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 
 
