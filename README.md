@@ -1,12 +1,10 @@
 Merhaba! Benim adım Eymen!
-
-Windows'u iyi derecede biliyorum ve çeşitli işletim sistemleri üzerinde çalışabilecek kadar teknolojiye hakimim.
-CSS öğrenme yolculuğuna çıktım ve kendimi geliştirmeye devam ediyorum.
-Python dili konusunda da ortalama üstü bilgi sahibiyim ve projeler geliştiriyorum.
-Ayrıca, https://Lavander.tech sitesinin oluşumunda rol aldım ve projeye katkıda bulundum.
+https://Lavander.tech sitesinin oluşumunda rol aldım ve projeye katkıda bulundum.
 Henüz kendim çıkarttığım projelerim yok fakat yakında olabilir ;)
 
+Bilinen Diller:
 
+![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
 
 ------------------------------------------------------------------------------------------------
 
