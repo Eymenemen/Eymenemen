@@ -1,3 +1,10 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eymenemen's;Readme)](https://git.io/typing-svg)
+
+
+
+
 Merhaba! Benim adım Eymen!
 Windows hakkında yüksek bir bilgi ve deneyime sahibim
 https://Lavander.tech sitesinin oluşumunda rol aldım ve projeye katkıda bulundum.
