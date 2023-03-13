@@ -4,8 +4,9 @@ Henüz kendim çıkarttığım projelerim yok fakat yakında olabilir ;)
 
 Bilinen Diller:
 
-![Screenshot](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-
+![Screenshot](https://simpleicons.org/icons/css3.svg)
+![Screenshot](https://simpleicons.org/icons/python.svg)
+![Screenshot](https://simpleicons.org/icons/html.svg)
 
 ------------------------------------------------------------------------------------------------
 
