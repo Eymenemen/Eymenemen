@@ -3,9 +3,9 @@ Windows hakkında yüksek bir bilgi ve deneyime sahibim
 https://Lavander.tech sitesinin oluşumunda rol aldım ve projeye katkıda bulundum.
 Henüz kendim çıkarttığım projelerim yok fakat yakında olabilir ;)
 
-## Bilinen Diller:
+## Bilinen Diller ve Araçlar:
 
-<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/html5.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/vscode.svg" />
 
 
 ------------------------------------------------------------------------------------------------
@@ -16,9 +16,9 @@ I have good skills with Windows and enough technology to work on various operati
 I took part in the https://Lavander.tech view and contributed to the project.
 I don't have any that I haven't removed yet, but it may be close ;)
 
-## Known Languages:
+## Known Languages and Tools:
 
-<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/html5.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/vscode.svg" />
 
 #### Follow me on github!
 
