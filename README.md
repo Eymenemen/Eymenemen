@@ -5,23 +5,27 @@
 
 
 
-Merhaba! Benim adım Eymen!
-Windows hakkında yüksek bir bilgi ve deneyime sahibim
-https://Lavander.tech sitesinin oluşumunda rol aldım ve projeye katkıda bulundum.
-Download-Tool Yayında!
+#### Merhaba! Benim adım Eymen!
+##### Windows hakkında yüksek bir bilgi ve deneyime sahibim.
+##### Kali Linux işletim sistemini hala öğrenmekteyim.
+##### https://asena.tech sitesi şu anda aktif!
+##### Download-Tool Yayında!
+
+
 
 ## Bilinen Diller ve Araçlar:
 
 <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/html5.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/vscode.svg" />
 
-
 ------------------------------------------------------------------------------------------------
 
 
-Hello! My name is Eymen!
-I have good skills with Windows and enough technology to work on various operating systems.
-I took part in the https://Lavander.tech view and contributed to the project.
-Download-Tool Relased!
+#### Hello! My name is Eymen!
+##### I have good skills with Windows and enough technology to work on various operating systems.
+##### Still learning Kali Linux.
+##### Website https://asena.tech is online right now!
+##### Download-Tool Relased!
+
 
 ## Known Languages and Tools:
 
